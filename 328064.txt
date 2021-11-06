@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Plik glowny
-
-=======
-Plik dodatkowy
->>>>>>> Zmiana 2
+Plik zostal zmieniony
